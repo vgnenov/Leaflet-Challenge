@@ -1,2 +1,2 @@
-// API key
-const API_KEY = "YOUR API KEY HERE!";
+// API key // back up pk.eyJ1IjoibGlsaWFuYWlsdXQiLCJhIjoiY2tmbjY1N2ZyMXJtMjJxcGtkanJoeXNsMiJ9.PGqgUXP7y5gMcSofBUGk_A
+const API_KEY = "pk.eyJ1IjoibGlsaWFuYWlsdXQiLCJhIjoiY2tmbjY1N2ZyMXJtMjJxcGtkanJoeXNsMiJ9.PGqgUXP7y5gMcSofBUGk_A"
