@@ -16,3 +16,10 @@ Import and Visualize the Data
 
 - Using Leaflet, a map will be created from the data set plotting all 
   of the earthquakes based on their longitute and latitute
+
+
+## Step 3
+- Create data marker that reflect the magnitude of the earthquake by their size and depth of the earthquake by color
+
+## Step 4
+- 
