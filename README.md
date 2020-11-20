@@ -19,7 +19,9 @@ Import and Visualize the Data
 
 
 ## Step 3
-- Create data marker that reflect the magnitude of the earthquake by their size and depth of the earthquake by color
+- Create data marker that reflect the magnitude of the earthquake by their
+  size and depth of the earthquake by color
+
 ![Screenshot](Instructions/Images/markers.JPG "Screenshot")
 
 ## Step 4
