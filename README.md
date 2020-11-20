@@ -22,4 +22,7 @@ Import and Visualize the Data
 - Create data marker that reflect the magnitude of the earthquake by their size and depth of the earthquake by color
 
 ## Step 4
+- Include popups that provide additional information about the earthquake when a marker is clicked
+
+## Step 5
 - 
