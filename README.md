@@ -36,6 +36,7 @@ Import and Visualize the Data
 
 # Results
 The interactive map will display earthquakes throughout the United States by severity in the last 7 days.
+
 ![Screenshot](Instructions/Images/map.JPG "Screenshot")
 
 By clicking on an earthquake additional information is displayed
