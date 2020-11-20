@@ -27,7 +27,7 @@ Import and Visualize the Data
 ## Step 4
 - Include popups that provide additional information about the earthquake 
   when a marker is clicked
-  ![Screenshot](Instructions/Images/popup.JPG "Screenshot")
+  ![Screenshot](Instructions/Images/popups.JPG "Screenshot")
 
 ## Step 5
 - Create a legend that will provide context for the map
