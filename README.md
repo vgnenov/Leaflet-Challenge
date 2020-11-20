@@ -25,4 +25,4 @@ Import and Visualize the Data
 - Include popups that provide additional information about the earthquake when a marker is clicked
 
 ## Step 5
-- 
+- Create a legend that will provide context for the map
