@@ -35,3 +35,5 @@ Import and Visualize the Data
 
 
 # Results
+![Screenshot](Instructions/Images/map.JPG "Screenshot")
+![Screenshot](Instructions/Images/map2.JPG "Screenshot")
