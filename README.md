@@ -9,3 +9,4 @@ Visualize the United States Geological Survey's data sets that will allow to bet
 
 ## Step 1 
 Acquire JSON data set from USGS 
+![Screenshot](Instructions/Images/data.png "Screenshot")
