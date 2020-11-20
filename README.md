@@ -29,3 +29,4 @@ Import and Visualize the Data
 
 ## Step 5
 - Create a legend that will provide context for the map
+![Screenshot](Instructions/Images/legend.JPG "Screenshot")
